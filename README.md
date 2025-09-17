@@ -62,3 +62,6 @@ Clone the repo:
 ```bash
 git clone https://github.com/yourusername/ai-accounting-assistant.git
 cd ai-accounting-assistant
+
+👩‍💻 Author: Amy Bray (Tanner)
+People Ops & HRIS Solutions | AI + Engagement | Global Workforce Programs
